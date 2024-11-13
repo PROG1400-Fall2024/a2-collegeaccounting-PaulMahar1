@@ -8,7 +8,6 @@ public class Main {
         double outgoing = 0;
         double incoming = 0;
 
-
         Object[] firstChoices = {"Student", "Staff", "Finish"};
 
         //INPUT
